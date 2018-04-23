@@ -2,9 +2,6 @@ package com.lisk.practice.source.collection;
 
 import java.util.*;
 
-/**
- * Created by lishengke on 2018/4/17.
- */
 public abstract class AbstractList<E> extends AbstractCollection<E> implements List<E> {
     /**
      * Sole constructor.  (For invocation by subclass constructors, typically
